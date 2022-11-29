@@ -12,8 +12,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2.Read the given csv file using read_csv() method and print the number of contents to be displayed using df.head().
 3.Import KMeans and use for loop to cluster the data.
 4.Predict the cluster and plot data graphs.
-5.![Screenshot 2022-11-29 092646](https://user-images.githubusercontent.com/94169318/204435137-2c69d52b-634a-46f8-9396-22edd8271ae1.jpg)
-Print the outputs and end the program.
+5.Print the outputs and end the program.
 
 ## Program:
 ```
